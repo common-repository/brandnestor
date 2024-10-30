@@ -1,0 +1,920 @@
+# Copyright (C) 2023 Nikos Papadakis
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: BrandNestor 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/brandnestor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-03T14:39:14+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: brandnestor\n"
+
+#. Plugin Name of the plugin
+#: src/Core/ElementorManager.php:77
+msgid "BrandNestor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Customize the WordPress dashboard, login/register pages, and more."
+msgstr ""
+
+#. Author of the plugin
+msgid "Nikos Papadakis"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://gitlab.com/webnestors/brandnestor"
+msgstr ""
+
+#: includes/login-form.php:116
+msgid "Re-enter new password"
+msgstr ""
+
+#: includes/pro-page.php:29
+msgid "Lightweight, simple to use, advanced WordPress Branding customizer."
+msgstr ""
+
+#: includes/pro-page.php:30
+msgid "Unlock more features with the Pro version!"
+msgstr ""
+
+#: includes/pro-page.php:36
+msgid "Feature"
+msgstr ""
+
+#: includes/pro-page.php:37
+msgid "Free"
+msgstr ""
+
+#: includes/pro-page.php:38
+msgid "Pro"
+msgstr ""
+
+#: includes/pro-page.php:43
+msgid "Customizable WordPress Branding"
+msgstr ""
+
+#: includes/pro-page.php:48
+msgid "Customizable Welcome Dashboard Panel"
+msgstr ""
+
+#: includes/pro-page.php:53
+msgid "Custom Login & Register Page"
+msgstr ""
+
+#: includes/pro-page.php:58
+msgid "Hide WordPress wp-login.php and /wp-admin/"
+msgstr ""
+
+#: includes/pro-page.php:63
+msgid "Gutenberg First-Class Support"
+msgstr ""
+
+#: includes/pro-page.php:68
+msgid "Elementor First-Class Support"
+msgstr ""
+
+#: includes/pro-page.php:73
+msgid "Modify or Hide Admin Menus"
+msgstr ""
+
+#: includes/pro-page.php:78
+msgid "Disable Hidden Menus"
+msgstr ""
+
+#: includes/pro-page.php:83
+msgid "Hide Admin Bar Menus"
+msgstr ""
+
+#: includes/pro-page.php:88
+msgid "Multiple Dashboard Welcome Panels"
+msgstr ""
+
+#: includes/pro-page.php:93
+msgid "WooCommerce Statistics Widgets for the Custom Dashboard"
+msgstr ""
+
+#: includes/pro-page.php:98
+msgid "Maintenance Mode: Under Construction or Coming Soon Pages"
+msgstr ""
+
+#: includes/pro-page.php:103
+msgid "Pre-defined BrandNestor Templates"
+msgstr ""
+
+#: includes/pro-page.php:105
+msgid "Coming soon!"
+msgstr ""
+
+#: includes/pro-page.php:110
+msgid "Upgrade Now"
+msgstr ""
+
+#: includes/pro-page.php:111
+msgid "Upgrade to the Pro version and get instant access to all premium features and future updates."
+msgstr ""
+
+#: includes/pro-page.php:112
+msgid "Get BrandNestor Pro Now"
+msgstr ""
+
+#: includes/settings-import-page.php:39
+msgid "Import BrandNestor Settings"
+msgstr ""
+
+#: includes/settings-import-page.php:40
+msgid "You can upload an exported BrandNestor settings file to import your settings."
+msgstr ""
+
+#: includes/settings-import-page.php:44
+msgid "Upload file"
+msgstr ""
+
+#: includes/settings-import-page.php:49
+msgid "Upload"
+msgstr ""
+
+#: includes/settings-page.php:32
+msgid "Cancel"
+msgstr ""
+
+#: includes/settings-page.php:33
+msgid "OK"
+msgstr ""
+
+#: includes/settings-page.php:54
+msgid "View Documentation"
+msgstr ""
+
+#: includes/settings-page.php:67
+msgid "Changes will appear on the next page refresh."
+msgstr ""
+
+#: includes/settings-page.php:69
+msgid "Save Changes"
+msgstr ""
+
+#: includes/settings-page.php:76
+msgid "Reset Plugin"
+msgstr ""
+
+#: src/Admin/Admin.php:152
+#: src/Admin/Settings/Settings.php:135
+#: src/Admin/Settings/Settings.php:136
+msgid "Get Pro"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:106
+msgid "BrandNestor Settings"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:107
+msgid "Settings"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:115
+msgid "Import BrandNestor"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:116
+msgid "Import Settings"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:125
+msgid "Export Settings"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:257
+msgid "Are you sure?"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:258
+msgid "Are you sure you want to reset the plugin? This will permanently delete all of the plugin data!"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:259
+msgid "An error occured during the request. See the developer console for details."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:260
+msgid "Rule deleted"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:261
+msgid "Settings saved!"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:262
+msgid "Click on any menu item to start editing its name..."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:263
+msgid "None Selected"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:264
+msgid "I understand that disabling the default login page may prevent me from accessing my website, if not setup correctly."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:269
+msgid "General"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:270
+msgid "General options."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:276
+#: src/Admin/Settings/Settings.php:545
+msgid "Dashboard"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:277
+msgid "Customize the Dashboard page with your own Welcome Panel. You can choose to create it with standard HTML, or using a BrandNestor Template page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:281
+msgid "Hide admin menu items for user roles and for users."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:284
+msgid "This user account is a \"BrandNestor Superadmin\". Admin Menus will not be hidden or renamed for you."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:290
+msgid "Admin Menus"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:297
+msgid "Admin Bar"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:298
+msgid "Options for the admin bar on top of the page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:302
+msgid "Enable custom login & registration pages for your users or clients. BrandNestor registers new Elementor Login, Registration Widgets, new Gutenberg Login and Register blocks that allow authentication to exist on the frontend by skipping using the wp-login.php page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:307
+msgid "WARNING: You do not have a permalink structure <strong>(currently set to plain URLs)</strong>. BrandNestor requires a permalink structure to work with the custom login and registration pages. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Read more<span class=\"dashicons dashicons-external\"></span></a>"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:315
+msgid "Authentication"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:322
+msgid "Advanced"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:323
+msgid "Advanced BrandNestor options. Some options are experimental and <strong>are not recommended</strong> for novice users."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:349
+#: src/Admin/Settings/Settings.php:374
+#: src/Admin/Settings/Settings.php:402
+#: src/Admin/Settings/Settings.php:419
+#: src/Admin/Settings/Settings.php:433
+#: src/Admin/Settings/Settings.php:458
+#: src/Admin/Settings/Settings.php:475
+msgid "Current user does not have the required capability"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:492
+msgid "Brand Name"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:493
+msgid "Your Brand name. Will be used to replace any WordPress mentions in admin pages."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:499
+msgid "Footer Text"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:500
+msgid "Text to display on the WordPress admin footer."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:506
+msgid "Footer Image"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:507
+msgid "Image to display next to the footer text."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:513
+msgid "Footer URL"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:514
+msgid "The link URL for the footer text."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:520
+msgid "Hide Contextual Help"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:521
+msgid "Hide the WordPress dashboard contextual help box that is on the top of admin pages."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:522
+#: src/Admin/Settings/Settings.php:530
+#: src/Admin/Settings/Settings.php:555
+#: src/Widgets/Login.php:133
+#: src/Widgets/Login.php:145
+#: src/Widgets/Register.php:123
+#: src/Widgets/Register.php:146
+msgid "Hide"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:528
+msgid "Hide WordPress Version"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:529
+msgid "Hide the WordPress version number that is displayed on the footer."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:547
+#: src/Admin/Settings/Settings.php:661
+#: src/Admin/Settings/Settings.php:804
+msgid "Enable"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:553
+msgid "Hide Widgets"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:554
+msgid "Hide all Dashboard widgets."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:561
+msgid "Welcome Panel Type"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:562
+msgid "Choose between writing as HTML or with a BrandNestor Template as the type of the Dashboard Welcome Panel."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:565
+#: src/Admin/Settings/Settings.php:572
+msgid "Template"
+msgstr ""
+
+#. translators: %s BrandNestor Templates URL
+#: src/Admin/Settings/Settings.php:575
+msgid "Choose a custom Welcome Panel from a BrandNestor Template page. <a href=\"%s\">Create one from here.</a>"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:584
+msgid "Dashboard HTML"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:585
+msgid "Insert custom HTML that is going to be placed on the Dashboard page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:591
+msgid "Dashboard CSS"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:592
+msgid "Insert custom CSS styling that is going to be placed on the Dashboard page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:641
+msgid "Rename menu…"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:687
+msgid "Hide admin menus for:"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:689
+#: src/Admin/Settings/Settings.php:831
+msgid "Roles"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:690
+#: src/Admin/Settings/Settings.php:832
+msgid "Users"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:722
+msgid "Guest"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:728
+msgid "Branding Logo"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:729
+msgid "Image logo to display on the Dashboard Admin Bar."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:735
+msgid "Branding Logo URL"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:736
+msgid "Link URL for the Branding Logo on the Dashboard Admin Bar."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:742
+msgid "Bar Menu Visibility"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:743
+msgid "With this, you can change the Admin Bar menu visibility for logged in or logged out users on the frontend."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:829
+msgid "Hide bar menus for:"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:855
+msgid "Login Page Template"
+msgstr ""
+
+#. translators: %1$s Add New BrandNestor Template URL, %2$s Shortcode help URL, %3$s Widget Help URL, %4$s Gutenber Blocks Help URL
+#: src/Admin/Settings/Settings.php:858
+msgid "Enable a custom Login Page for WordPress. Login URLs and redirects will point to this page. Create then select a <a href=\"%1$s\">BrandNestor Template</a>, then add a login form to a page using the <a href=\"%2$s\" target=\"_blank\">brandnestor_login shortcode <span class=\"dashicons dashicons-external\"></span></a>, the Elementor Widget <a href=\"%3$s\" target=\"_blank\">BrandNestor Login <span class=\"dashicons dashicons-external\"></span></a>, or the <a href=\"%4$s\" target=\"_blank\">Gutenberg Login Block <span class=\"dashicons dashicons-external\"></span></a>."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:870
+msgid "Login Page URL"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:871
+msgid "<strong>(Required)</strong> Set a custom URL slug for your custom Login page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:878
+msgid "Redirect URL On Login"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:879
+msgid "URL to redirect to on successful user login. <strong>Note</strong>: Only redirects to the same <strong>site domain</strong> are allowed."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:886
+msgid "Register Page Template"
+msgstr ""
+
+#. translators: %1$s Add New BrandNestor Template URL, %2$s Shortcode help URL, %3$s Widget Help URL, %4$s Gutenber Blocks Help URL
+#: src/Admin/Settings/Settings.php:889
+msgid "Enable a custom Register Page for WordPress. Register URLs and redirects will point to this page. Create then select a <a href=\"%1$s\">BrandNestor Template</a>, then add a register form to a page using the <a href=\"%2$s\" target=\"_blank\">brandnestor_register shortcode <span class=\"dashicons dashicons-external\"></span></a>, the Elementor Widget <a href=\"%3$s\" target=\"_blank\">BrandNestor Register <span class=\"dashicons dashicons-external\"></span></a>, or the <a href=\"%4$s\" target=\"_blank\">Gutenberg Register Block <span class=\"dashicons dashicons-external\"></span></a>."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:901
+msgid "Register Page URL"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:902
+msgid "<strong>(Required)</strong> Set a custom URL slug for your custom Register page."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:909
+msgid "Redirect URL On Register"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:910
+msgid "URL to redirect to on successful user registration. <strong>Note</strong>: Only redirects to the same <strong>site domain</strong> are allowed."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:917
+msgid "WordPress Login Page Logo"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:918
+msgid "Replace the default WordPress login page logo with your own <strong>(84x84 pixels).</strong> Useful if there are plugins that rely on the default WP login form, such as Two Factor."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:924
+msgid "Disable Default WordPress Login Page"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:925
+msgid "Disable the default WordPress login & register page. <span style=\"color:var(--brandnestor-danger-color)\">WARNING: Make sure that your custom login and register pages work correctly, otherwise <strong>nobody</strong> will be able to sign in!</span>"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:926
+#: src/Admin/Settings/Settings.php:934
+#: src/Admin/Settings/Settings.php:958
+msgid "Disable"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:932
+msgid "Disable /wp-admin/ Page Redirect"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:933
+msgid "Disables /wp-admin/ to login page redirection for non-logged in users to proactively hide your login and registration pages as a security feature."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:949
+msgid "Custom CSS"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:950
+msgid "Add Custom CSS to all Admin pages."
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:956
+msgid "Disable REST API for Logged Out Users"
+msgstr ""
+
+#: src/Admin/Settings/Settings.php:957
+msgid "<strong>(Experimental)</strong> Disables all REST API endpoints for all unauthenticated users (Core WordPress enpoints only)."
+msgstr ""
+
+#: src/Admin/Settings/SettingsImageField.php:31
+msgid "Upload Image"
+msgstr ""
+
+#: src/Admin/Settings/SettingsRuleField.php:67
+msgid "Add New"
+msgstr ""
+
+#: src/Admin/Settings/SettingsRuleField.php:82
+msgid "Delete"
+msgstr ""
+
+#. translators: %s a forbidden URL slug that is set by the user
+#: src/Core/DefaultOptions.php:125
+msgid "URL slug \"%s\" is not allowed."
+msgstr ""
+
+#: src/Core/RequestHandler.php:77
+msgid "<strong>Error:</strong> Incorrect username/email or password."
+msgstr ""
+
+#: src/Core/RequestHandler.php:355
+msgid "Import error: The uploaded file type is not allowed."
+msgstr ""
+
+#: src/Core/RequestHandler.php:370
+msgid "Settings successfully imported. Please manually check your options, some options were disabled during export for safety reasons."
+msgstr ""
+
+#: src/Core/RequestHandler.php:372
+msgid "Import error: The upload file is invalid."
+msgstr ""
+
+#: src/Core/TemplateManager.php:46
+msgid "BrandNestor Templates"
+msgstr ""
+
+#: src/Front/Front.php:234
+msgid "You are currently not logged in."
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:49
+#: src/Front/Models/RegisterModel.php:44
+#: src/Widgets/Base_Form.php:482
+#: src/Widgets/Base_Form.php:483
+msgid "Submit"
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:50
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/block.js:33
+#: assets/js/build/blocks/blocks.js:119
+msgid "Get New Password"
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:66
+msgid "You are now logged out."
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:70
+msgid "User registration is currently disabled."
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:74
+msgid "Your password has been reset. You can now log in with the form below."
+msgstr ""
+
+#. translators: %s login page URL
+#: src/Front/Models/LoginModel.php:79
+msgid "Registration complete. Please check your email, then visit the <a href=\"%s\">login page</a>."
+msgstr ""
+
+#. translators: %s register page URL
+#: src/Front/Models/LoginModel.php:84
+msgid "Check your email for the confirmation link, then visit the <a href=\"%s\">login page</a>."
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:88
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr ""
+
+#: src/Front/Models/LoginModel.php:92
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr ""
+
+#: src/Widgets/Base_Form.php:35
+msgid "Style"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:43
+msgid "Form Label Typography"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:52
+msgid "Text Typography"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:61
+#: src/Widgets/Base_Form.php:95
+#: src/Widgets/Base_Form.php:362
+msgid "Text Color"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:79
+msgid "Inputs"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:107
+#: src/Widgets/Base_Form.php:373
+msgid "Background Color"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:158
+#: src/Widgets/Base_Form.php:472
+msgid "Button"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:346
+msgid "Message Box"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:354
+msgid "Message Styling"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:392
+msgid "Error Message Styling"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:400
+msgid "Error Text Color"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:411
+msgid "Error Background Color"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:480
+msgid "Button Label"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:490
+msgid "Alignment"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:494
+msgid "Left"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:498
+msgid "Center"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:502
+msgid "Right"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:506
+msgid "Justified"
+msgstr ""
+
+#: src/Widgets/Base_Form.php:516
+msgid "Button Icon"
+msgstr ""
+
+#: src/Widgets/Login.php:92
+#: src/Widgets/Register.php:92
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:49
+#: assets/js/src/blocks/register/edit.js:48
+#: assets/js/build/blocks/blocks.js:194
+#: assets/js/build/blocks/blocks.js:404
+msgid "Content"
+msgstr ""
+
+#: src/Widgets/Login.php:100
+msgid "Login Label"
+msgstr ""
+
+#: src/Widgets/Login.php:110
+msgid "Password Label"
+msgstr ""
+
+#: src/Widgets/Login.php:120
+msgid "Remember Me Label"
+msgstr ""
+
+#: src/Widgets/Login.php:130
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:51
+#: assets/js/build/blocks/blocks.js:196
+msgid "Show Lost Password"
+msgstr ""
+
+#: src/Widgets/Login.php:132
+#: src/Widgets/Login.php:144
+#: src/Widgets/Register.php:122
+#: src/Widgets/Register.php:145
+msgid "Show"
+msgstr ""
+
+#: src/Widgets/Login.php:142
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:61
+#: assets/js/build/blocks/blocks.js:206
+msgid "Show Register URL"
+msgstr ""
+
+#: src/Widgets/Login.php:154
+msgid "New Password Button Label"
+msgstr ""
+
+#: src/Widgets/Login.php:173
+#: src/Widgets/Register.php:175
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:96
+#: assets/js/src/blocks/register/edit.js:89
+#: assets/js/build/blocks/blocks.js:241
+#: assets/js/build/blocks/blocks.js:445
+msgid "Sample message."
+msgstr ""
+
+#: src/Widgets/Login.php:174
+#: src/Widgets/Register.php:176
+msgid "Sample <strong>error</strong> message."
+msgstr ""
+
+#: src/Widgets/Register.php:100
+msgid "Username Label"
+msgstr ""
+
+#: src/Widgets/Register.php:110
+msgid "Email Label"
+msgstr ""
+
+#: src/Widgets/Register.php:120
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:50
+#: assets/js/build/blocks/blocks.js:406
+msgid "Show First Name Input"
+msgstr ""
+
+#: src/Widgets/Register.php:132
+msgid "First Name Label"
+msgstr ""
+
+#: src/Widgets/Register.php:143
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:60
+#: assets/js/build/blocks/blocks.js:416
+msgid "Show Last Name Input"
+msgstr ""
+
+#: src/Widgets/Register.php:155
+msgid "Last Name Label"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/block.js:6
+#: assets/js/build/blocks/blocks.js:92
+msgid "BrandNestor Login"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/block.js:7
+#: assets/js/build/blocks/blocks.js:93
+msgid "A custom Login widget for WordPress"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:56
+#: assets/js/build/blocks/blocks.js:201
+msgid "Showing lost password link"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:57
+#: assets/js/build/blocks/blocks.js:202
+msgid "Toggle to show lost password link"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:66
+#: assets/js/build/blocks/blocks.js:211
+msgid "Showing register link"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:67
+#: assets/js/build/blocks/blocks.js:212
+msgid "Toggle to show register link"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:71
+#: assets/js/build/blocks/blocks.js:216
+msgid "New Password Button Text"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:76
+#: assets/js/src/blocks/register/edit.js:70
+#: assets/js/build/blocks/blocks.js:221
+#: assets/js/build/blocks/blocks.js:426
+msgid "Button Alignment"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:97
+#: assets/js/src/blocks/register/edit.js:90
+#: assets/js/build/blocks/blocks.js:242
+#: assets/js/build/blocks/blocks.js:446
+msgid "Sample error message."
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:105
+#: assets/js/src/blocks/register/edit.js:98
+#: assets/js/build/blocks/blocks.js:250
+#: assets/js/build/blocks/blocks.js:454
+msgid "Add a username label…"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/login/edit.js:114
+#: assets/js/build/blocks/blocks.js:259
+msgid "Add a password label…"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/block.js:6
+#: assets/js/build/blocks/blocks.js:303
+msgid "BrandNestor Register"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/block.js:7
+#: assets/js/build/blocks/blocks.js:304
+msgid "A custom Register widget for WordPress"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:55
+#: assets/js/src/blocks/register/edit.js:65
+#: assets/js/build/blocks/blocks.js:411
+#: assets/js/build/blocks/blocks.js:421
+msgid "Showing a first name input field"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:56
+#: assets/js/build/blocks/blocks.js:412
+msgid "Toggle to show the first name input field"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:66
+#: assets/js/build/blocks/blocks.js:422
+msgid "Toggle to show the last name input field"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:107
+#: assets/js/build/blocks/blocks.js:463
+msgid "Add an email label…"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:117
+#: assets/js/build/blocks/blocks.js:473
+msgid "Add a first name label…"
+msgstr ""
+
+#: assets/js/build/blocks/blocks.js:1
+#: assets/js/src/blocks/register/edit.js:128
+#: assets/js/build/blocks/blocks.js:484
+msgid "Add a last name label…"
+msgstr ""
